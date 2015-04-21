@@ -1,0 +1,14 @@
+1) mean init dar
+2) cd dar
+3) sudo npm install
+4) bower install
+5) gulp
+Open a browser and type localhost:3000
+
+
+
+Links:
+
+- Some apps builded with mean: https://github.com/linnovate/mean/wiki/Built-with-Mean
+- Mean.io vs Mean.js: http://stackoverflow.com/questions/23199392/difference-between-mean-js-and-mean-io
+- Author of Mean.io_js: https://github.com/amoshaviv
