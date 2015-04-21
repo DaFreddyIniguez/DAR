@@ -1,0 +1,5 @@
+La práctica de virtualización consistió en instalar Citrix Xen Server en un equipo de manera dedicada. En la demostración, se consiguió un módem y se conectaron tres computadoras al mismo: 1) el equipo dedicado con Xen Server instalado, 2) un equipo común con el cliente de Xen Server instalado y 3) otro equipo común con el cliente.
+
+La práctica consistió en instalar en el server dos máquinas virtuales, un Ubuntu 12.04 LTS de 32 bits y un Ubuntu 12.04 LTS de 64 bits, aunque la arquitectura no importaba demasiado siempre y cuando lo soportara el servidor.
+
+Posteriormente, en los dos equipos cliente, se ejecutaron las máquinas virtuales que conteniía el servidor y se corrieron algunos comendos de prueba para verificar la validez y rendimiento de las máquinas virtuales.
