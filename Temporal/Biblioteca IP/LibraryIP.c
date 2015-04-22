@@ -27,6 +27,7 @@
 						declara funciones auxiliares*/
 //////////////////////////////////////
 /*Funciones de utilidad*/
+int mainSniffer(int argc, char*argv[]);
 void ProcessPacket(unsigned char* , int);
 void print_ip_header(unsigned char* , int);
 void print_tcp_packet(unsigned char * , int );
@@ -44,7 +45,7 @@ void PrintData (unsigned char* , int);
  int tcp = 0, udp = 0, icmp = 0, others = 0, igmp = 0, total = 0, i, j;
 
 
- int main(int argc, char *argv[])
+ int mainSniffer(int argc, char *argv[])
  {
  	/*Creacioón de variables que almacenan la direccion de 
  	origen y el tamaño de datos. */
