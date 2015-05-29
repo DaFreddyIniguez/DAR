@@ -1,0 +1,6 @@
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\bin\Servicios Web.dll.config
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\bin\Servicios Web.dll
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\bin\Servicios Web.pdb
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\obj\Debug\Servicios Web.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\obj\Debug\Servicios Web.dll
+c:\users\freddy\documents\visual studio 2013\Projects\ISIII\Servicios Web\obj\Debug\Servicios Web.pdb
